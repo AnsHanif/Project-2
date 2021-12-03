@@ -1,0 +1,20 @@
+.container{
+    padding-left: 100px;
+    padding-top: 150px;
+}
+.h1{
+    padding-left: 60px;
+}
+.button-container{
+    column-gap: 500px;
+}
+.btn{
+    background-color: white;
+    border-radius: 5px;
+    width: 100px;
+    height: 25px;
+}
+
+#span{
+    padding-left: 140px;
+}
